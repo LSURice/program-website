@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="knMr8O7D"></script>
+
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>{{ site.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        {{ content }}
+
+        <h2>News</h2>
+        <div class="fb-page" data-href="https://www.facebook.com/LouisianaRiceBreeding/" data-tabs="timeline" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/LouisianaRiceBreeding/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LouisianaRiceBreeding/">Louisiana Rice Breeding</a></blockquote></div>
+                   
+      </div>
+       {% include sidebar.html %}
+    </div>
+  </div>
+

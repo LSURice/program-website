@@ -1,0 +1,26 @@
+
+<h2>{{include.name}}</h2>
+
+<h5><em>{{include.position}}</em></h5>
+
+<div class="pro-box">
+  {%if include.pic %}
+   <img class="pro-pic" src="{{include.pic}}" alt=""/>	
+  {% endif %}
+  
+  {% if include.top-p1 and include.top-p2 %}
+
+    <p>{{include.top-p1}}</p>
+    <p>{{include.top-p2}}</p>
+    
+  {% elsif include.top-p1 %}
+
+    <p>{{include.top-p1}}</p>
+
+  {% endif %}
+</div>  
+{% if include.bottom %}
+  <p>{{include.bottom}}</p>
+{% endif %}
+
+<hr>

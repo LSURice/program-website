@@ -134,8 +134,8 @@ pic="img/people/jennifer_profile_pic.jpg"
 
 ## Program Alumni
 
-|     |  | Current Position     |
+|     | Thesis | Current Position     |
 | :------------- | :----------: | -----------: |
-|  Christopher Addison |**PhD Student** <br/> *Thesis: Phenotypic and Genotypic Characterization of Aroma and Cercospora janseana Resistance in U.S. Rice* | Senior Research Associate, Corteva Agriscience  |
+|  **Christopher Addison** |Phenotypic and Genotypic Characterization of Aroma and Cercospora janseana Resistance in U.S. Rice | Senior Research Associate, Corteva Agriscience  |
 
 

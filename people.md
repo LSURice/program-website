@@ -22,7 +22,7 @@ prioritizing, and validating new technologies and approaches
 within the logistical context of an applied breeding program."
 
 bottom="Dr. Famoso recieved an Associate Degree from Paul Smith's 
-College in upstate New York in Urban Forestry. He then went on to optain
+College in upstate New York in Urban Forestry. He then went on to obtain
 a BS in Horticulture from Penn State University, and a PhD
 in Plant Breeding and Genetics from Cornell University. During his PhD he 
 worked in the lab of Dr. Susan McCouch studying the genetics of aluminum 
@@ -47,7 +47,7 @@ the medium grain rice breeding program.
 He is responsible for planning field trials, making selections, 
 and advances lines through to variety release."
 
-top-p2="Dr. Angira recieved his masters from West Texas A&M University and
+top-p2="Dr. Angira received his masters from West Texas A&M University and
 his PhD from Texas A&M Univesity in
 2016, where he studied the genetics of heat tolerance in cowpea."
 
@@ -77,6 +77,12 @@ and applied quantitative genetics."
 
 {% include profile.html 
 name="Tommaso Cerioli" 
+
+top-p1="Tommaso is a PhD student with Dr. Famoso. His projects focus on the implementation 
+of Genomic Selection and Marker Assisted Selection into the breeding program."
+
+top-p2="Tommaso obtained a BS in Agricultural Science and Technology at University of Milan in 2015 
+and a Master in Crop Production and Protection at University of Milan in 2017."
 
 position="Graduate student"
 

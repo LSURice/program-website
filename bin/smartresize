@@ -6,19 +6,10 @@ smartresize(){
 
 export -f smartresize
 
-mkdir img/tmp
 for pic in $(ls _data/img/gallery)
 do
-  smartresize _data/img/gallery/$pic 300 img/tmp/
+  smartresize _data/img/gallery/$pic 300 img/thumbs/
 done
-
-for pic in $(ls img/tmp)
-do
-  convert img/tmp/$pic -gravity center -crop 200x200+0+0 +repage  img/thumbs/$pic
-done
-
-
-rm -r img/tmp
 
 for pic in $(ls _data/img/gallery)
 do

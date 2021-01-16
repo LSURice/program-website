@@ -12,7 +12,7 @@ export -f smartthumb
 
 for pic in $(ls _data/img/gallery)
 do
-  smartthumb _data/img/gallery/$pic 300 img/thumbs
+  smartthumb _data/img/gallery/$pic 400 img/thumbs
 done
 
 for pic in $(ls _data/img/gallery)

@@ -97,6 +97,8 @@ position="Graduate student"
 
 pic="img/people/raul_profile_pic.png"
 
+top-p1="Raul is a PhD student with Dr. Famoso based in Baton Rouge, Louisiana. His work inlcudes characterizing of US and Latin American germplasm for eating and cooking quality traits."
+top-p2="Raul received his BS in Supply Chain Management in 2009 from the Pennsylvania State University and a Master's degree in Plant Breeding in 2013 from the University of Wisconsin. His thesis focused on Participatory varietal selection for virus resistance and shelf life longevity with various organizations across Central America. "
 %}
 
 {% include profile.html 

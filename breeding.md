@@ -86,9 +86,9 @@ featuring recent data on current rice varieties. This report is freely available
 and can be accessed by clicking on the the "Varieties" link on the
 [AgCenter rice homepage](https://www.lsuagcenter.com/topics/crops/rice){:target="_blank"}.
 
-### 2020 virtual rice breeding  update
+### 2021 Rice breeding update
 
-<iframe width=600 height=315 src="https://www.youtube.com/embed/uf6ad_l_xW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="315" src="https://www.youtube.com/embed/BIVIod1qHZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Selected Release Publications
 

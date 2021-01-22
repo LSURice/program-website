@@ -7,8 +7,7 @@ title: Variety Development
 ## The Field Program
 The breeding project develops conventional and 
 herbicide-resistant long-grain, medium-grain and specialty rice varieties such as 
-aromatic rices and new lines tailored to the 
-[Latin American market](https://www.lsuagcenter.com/articles/page1606255285126){:target="_blank"}
+aromatic rices and new lines tailored to the [Latin American market](https://www.lsuagcenter.com/articles/page1606255285126){:target="_blank"}. 
 Development of herbicide resistant lines includes Clearfield varieties and new
 [Provisia lines](https://www.ricefarming.com/departments/feature/new-and-improved-2/){:target="_blank"}.
 

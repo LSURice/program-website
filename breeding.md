@@ -50,7 +50,7 @@ our lines when possible.
 
 
 **Harvested plots are flooded again to evaluate the ratoon capacity of 
-experimental lines. A large percentage of rice along the Gulf Coast is rationed, 
+experimental lines. A large percentage of rice along the Gulf Coast is ratooned, 
 in which the rice is harvested for a second crop. Prior to flooding the stubble 
 is manipulated to stimulate regrowth and nitrogen fertilizer is flown on.**
 

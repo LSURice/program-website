@@ -73,6 +73,10 @@ at Cornell University.
 Check out our
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Fm9E8xAAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 
+Addison, C.K., Angira, B., Cerioli, T., Groth, D.E., Richards, J.K., Linscombe, S.D., and **Famoso, A.N**. Identification and mapping of a novel resistance gene to the rice pathogen, Cercospora janseana. Theor Appl Genet. 2021.[10.1007/s00122-021-03821-2](https://doi.org/10.1007/s00122-021-03821-2){:target="_blank"} 
+
+Cerioli, T., Gentimis, T., Linscombe, S.D, **Famoso, A.N**. Effect of rice planting date and optimal planting window for Southwest Louisiana. Agronomy Journal. 2021.[10.1002/agj2.20593](https://doi.org/10.1002/agj2.20593){:target="_blank"} 
+
 Addison, C.K., Angira, B., Kongchum, Harrell, D.L., Baisakh, N., Linscombe, S.D.,
 and **Famoso, A.N.**. Characterization of Haplotype Diversity in the BADH2 Aroma 
 Gene and Development of a KASP SNP Assay for Predicting Aroma in U.S. Rice. 2020.
@@ -85,20 +89,3 @@ Haplotype Characterization of the sd1 Semidwarf Gene in United States Rice.
 The Plant Genome. 
 [10.3835/plantgenome2019.02.0010](https://doi.org/10.3835/plantgenome2019.02.0010){:target="_blank"}
 
-Clark R, **Famoso A.N.**, Zhao K, Shaff J, Craft E, Bustamante C, McCouch S, 
-Aneshansley D, and Kochian L. 2013. High throughput 2D root system pheotyping 
-platform facilitates genetic analysis of root growth and development. 
-Plant, Cell and Environment. 
-[doi:10.1111/j.1365-3040.2012.02587.x](https://doi.org/10.1111/j.1365-3040.2012.02587.x){:target="_blank"}
-
-**Famoso A.N.**, Zhao K, Clark R, Tung CW, Wright M, Bustamante C, Kochian L, 
-and McCouch S. 2011. Genetic architecture of aluminum tolerance in rice 
-(Oryza sativa) determined through genome-wide association analysis of QTL mapping. 
-PLoS Genetics. 
-[doi:10.1371/journal.pgen.1002221](https://doi.org/10.1371/journal.pgen.1002221){:target="_blank"}
-
-**Famoso A.N.**, Clark R, Shaff J, Craft E, McCouch S, and Kochian L. 2010. 
-Development of a novel aluminum tolerance phenotyping platform used for 
-comparisons of cereal aluminum tolerance and investigations into rice aluminum
-tolerance. Plant, Cell and Environment. 
-[10.1104/pp.110.156794](https://doi.org/10.1104/pp.110.156794){:target="_blank"}

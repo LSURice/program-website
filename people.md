@@ -79,7 +79,7 @@ name="Frank Maulana"
 
 position="Postdoctoral associate"
 
-pic="img/people/chris_profile_pic.jpg"
+pic=""
 
 %}
 

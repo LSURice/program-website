@@ -74,6 +74,14 @@ and applied quantitative genetics."
 
 %}
 
+{% include profile.html 
+name="Frank Maulana" 
+
+position="Postdoctoral associate"
+
+pic="img/people/chris_profile_pic.jpg"
+
+%}
 
 {% include profile.html 
 name="Tommaso Cerioli" 

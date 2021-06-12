@@ -90,7 +90,7 @@ and increasing genetic gain."
 top-p2="
 Dr. Maulana received a BS in Crop Science from Bunda College of Agriculture in Malawi. After
 working as breeder in Malwai he obtained a MS and PhD in Plant Breeding and Genetics 
-from Kansas State University. At KSU, he worked on cold tolerance and prediction for sorghum hybrid
+from Kansas State University. At KSU, he studied on cold tolerance and prediction for sorghum hybrid
 performance. Most recently, he worked as a postdoctoral researcher in the Small Grains 
 Breeding Lab at Noble Research Institute developing genomic selection models
 and an image-based phenotyping platform for abiotic stress."

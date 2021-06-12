@@ -79,7 +79,28 @@ name="Frank Maulana"
 
 position="Postdoctoral associate"
 
-pic=""
+pic="img/people/frank_profile_pic.jpg"
+
+top-p1="Dr. Maulana is a postdoctoral associate in Dr. Adam Famoso’s Rice Breeding Lab 
+at Louisiana State University (LSU) AgCenter, Rice Research Station. His research work 
+involves developing, validating, and optimizing genomic prediction methodologies for 
+immediate application in the LSU AgCenter rice breeding program, estimating breeding 
+costs and cost-benefit trade-offs associated with integration of genomic selection (GS) 
+in the breeding program to make better decisions to reduce costs, while improving 
+breeding efficiency and increasing genetic gain."
+
+bottom="Dr. Maulana received PhD and MS in Plant Breeding and Genetics from Kansas 
+State University (KSU) and BS in Crop Science from Bunda College of Agriculture in Malawi. 
+His research work at KSU focused on cold tolerance and prediction of sorghum hybrid 
+performance using genomic prediction model, genetic distance between parents and inbred 
+line performance. After finishing undergraduate, he worked for Agricultural Research and 
+Extension Trust (ARET) in Malawi as a Plant Breeder. Most recently, he worked as a postdoctoral 
+researcher in the Small Grains Breeding Lab at Noble Research Institute where he developed 
+genomic selection models for agronomic traits in winter wheat, identified SNP molecular 
+markers for abiotic stress tolerance, forage and grain-related traits. He also worked 
+with the Root Phenomics Lab at Noble to optimize and validate image-based phenotyping 
+platform for abiotic stress screening. His is experienced in cultivar development, 
+QTL mapping, genome-wide selection, applied quantitative genetics and statistical analysis."
 
 %}
 

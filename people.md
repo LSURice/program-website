@@ -11,7 +11,7 @@ position="Principal investigator"
 
 pic="img/people/adam_profile_pic.jpg"
 
-top-p1="Dr. Famoso is an Associate Professor at LSU and leads the rice breeding
+top-p2="Dr. Famoso is an Associate Professor at LSU and leads the rice breeding
 progam at the H. Rouse Caffey Rice Research Station. The
 breeding program has a comprehensive field testing component, winter nursery,
 a SNP DNA marker lab, and strives to incorporate enabling technologies 
@@ -83,14 +83,13 @@ pic="img/people/frank_profile_pic.jpg"
 
 top-p1="Dr. Maulana is a postdoctoral associate with Dr. Famoso. His research
 involves developing, validating, and optimizing genomic prediction methodologies for
-immediate application in the breeding program, as well as financial modeling to
-determine cost-benefit trade-offs associated with integration of new technologies.
+immediate application in the breeding program.
 The primary goal of his research is to reduce costs, while improving breeding efficiency
 and increasing genetic gain."
 
 top-p2="
 Dr. Maulana received a BS in Crop Science from Bunda College of Agriculture in Malawi. After
-working as breeder in Malwai he went on to obtain a MS and PhD in Plant Breeding and Genetics 
+working as breeder in Malwai he obtained a MS and PhD in Plant Breeding and Genetics 
 from Kansas State University. At KSU, he worked on cold tolerance and prediction for sorghum hybrid
 performance. Most recently, he worked as a postdoctoral researcher in the Small Grains 
 Breeding Lab at Noble Research Institute developing genomic selection models

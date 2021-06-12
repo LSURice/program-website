@@ -11,7 +11,7 @@ position="Principal investigator"
 
 pic="img/people/adam_profile_pic.jpg"
 
-top-p2="Dr. Famoso is an Associate Professor at LSU and leads the rice breeding
+top-p1="Dr. Famoso is an Associate Professor at LSU and leads the rice breeding
 progam at the H. Rouse Caffey Rice Research Station. The
 breeding program has a comprehensive field testing component, winter nursery,
 a SNP DNA marker lab, and strives to incorporate enabling technologies 
@@ -21,7 +21,7 @@ in the Famoso lab are aimed at identifying,
 prioritizing, and validating new technologies and approaches
 within the logistical context of an applied breeding program."
 
-bottom="Dr. Famoso recieved an Associate Degree from Paul Smith's 
+top-p2="Dr. Famoso recieved an Associate Degree from Paul Smith's 
 College in upstate New York in Urban Forestry. He then went on to obtain
 a BS in Horticulture from Penn State University, and a PhD
 in Plant Breeding and Genetics from Cornell University. During his PhD he 

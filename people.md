@@ -42,7 +42,7 @@ pic="img/people/brijesh_profile_pic.jpg"
 top-p1="Dr. Angira is an Assistant Professor at LSU.
 His current research is focused on developing and
 integrating molecular markers into the breeding program.
-In addition to leading the marker lab and genetics research, he oversees  
+In addition to leading the marker lab and genetics research, he oversees 
 the medium grain rice breeding program. 
 He is responsible for planning field trials, making selections, 
 and advances lines through to variety release."
@@ -95,7 +95,7 @@ His research work at KSU focused on cold tolerance and prediction of sorghum hyb
 performance. Most recently, he worked as a postdoctoral  researcher in the Small Grains 
 Breeding Lab at Noble Research Institute developing genomic selection models 
 in winter wheat, and developing/validating an image-based phenotyping platform 
-for abiotic stress screening.
+for abiotic stress screening."
 %}
 
 {% include profile.html 

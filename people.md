@@ -59,6 +59,8 @@ name="Christopher Hernandez"
 
 position="Postdoctoral associate"
 
+website="https://www.chrishdz.xyz"
+
 pic="img/people/chris_profile_pic.jpg"
 
 top-p1="Chris is a postdoctoral researcher with Dr. Adam Famoso based 

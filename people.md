@@ -70,7 +70,8 @@ top-p2="Chris received a BS in Genetics and Agronomy in 2014 from Iowa State Uni
 and a PhD in Plant Breeding from Cornell University in 2019. His PhD work focused 
 on using genomics to improve fruit quality traits in a winter squash breeding 
 program. He has experience in field breeding, molecular breeding, bioinformatics, 
-and applied quantitative genetics. [Website](https://www.chrishdz.xyz)"
+and applied quantitative genetics."
+[Website](https://www.chrishdz.xyz)
 
 %}
 

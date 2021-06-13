@@ -9,6 +9,8 @@ name="Adam Famoso"
 
 position="Principal investigator"
 
+email="AFamoso@agcenter.lsu.edu"
+
 pic="img/people/adam_profile_pic.jpg"
 
 top-p1="Dr. Famoso is an Associate Professor at LSU and leads the rice breeding
@@ -37,6 +39,8 @@ name="Brijesh Angira"
 
 position="Assistant professor"
 
+email="BAngira@agcenter.lsu.edu"
+
 pic="img/people/brijesh_profile_pic.jpg"
 
 top-p1="Dr. Angira is an Assistant Professor at LSU.
@@ -59,7 +63,7 @@ name="Christopher Hernandez"
 
 position="Postdoctoral associate"
 
-email="chernandez@agcenter.lsu.edu"
+email="CHernandez@agcenter.lsu.edu"
 
 website="https://www.chrishdz.xyz"
 
@@ -82,6 +86,8 @@ and applied quantitative genetics."
 name="Frank Maulana" 
 
 position="Postdoctoral associate"
+
+email="FMaulana@agcenter.lsu.edu"
 
 pic="img/people/frank_profile_pic.jpg"
 
@@ -111,6 +117,8 @@ and a Master in Crop Production and Protection at University of Milan in 2017."
 
 position="Graduate student"
 
+email="TCerioli@agcenter.lsu.edu"
+
 pic="img/people/tommaso_profile_pic.jpg"
 
 %}
@@ -120,6 +128,8 @@ name="Raul Guerra"
 
 position="Graduate student"
 
+email="RGuerra@agcenter.lsu.edu"
+
 pic="img/people/raul_profile_pic.png"
 
 top-p1="Raul is a PhD student with Dr. Famoso based in Baton Rouge, Louisiana. His work inlcudes characterizing of US and Latin American germplasm for eating and cooking quality traits."
@@ -127,15 +137,19 @@ top-p2="Raul received his BS in Supply Chain Management in 2009 from the Pennsyl
 %}
 
 {% include profile.html 
-name="Maria Montiel" 
+name="Maria Montiel"
 
 position="Graduate student"
+
+email="MMontiel@agcenter.lsu.edu"
 %}
 
 {% include profile.html 
 name="Valerie Dartez" 
 
 position="Research associate"
+
+email="VDartez@agcenter.lsu.edu"
 
 pic="img/people/valerie_profile_pic.jpg"
 

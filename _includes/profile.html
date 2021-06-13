@@ -3,6 +3,10 @@
 
 <h5><em>{{include.position}}</em></h5>
 
+{% if include.website %}
+<a href="{{include.website}}">Website</a>
+{% endif %}
+
 <div class="pro-box">
   {%if include.pic %}
    <img class="pro-pic" src="{{include.pic}}" alt=""/>	

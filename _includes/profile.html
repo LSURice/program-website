@@ -3,6 +3,10 @@
 
 <h5><em>{{include.position}}</em></h5>
 
+{% if include.email %}
+<a href="{{include.email | prepend: 'mailto: '}}"><u>{{include.email}}</u></a>
+{% endif %}
+
 {% if include.website %}
 <a href="{{include.website}}" target="_blank"><u>Website</u></a>
 {% endif %}

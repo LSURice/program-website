@@ -169,7 +169,7 @@ pic="img/people/jennifer_profile_pic.jpg"
 
 ## Program Alumni
 
-**Christopher Addison** 2014-2020 Senior Research Associate, Corteva Agriscience
+**Christopher Addison**, 2014-2020, Senior Research Associate at Corteva Agriscience
 
 ## Student Workers & Interns
 

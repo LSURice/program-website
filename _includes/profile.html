@@ -7,10 +7,6 @@
 <a href="{{include.email | prepend: 'mailto: '}}"><u>{{include.email}}</u></a>
 {% endif %}
 
-{% if include.website %}
-<a href="{{include.website}}" target="_blank"><u>Website</u></a>
-{% endif %}
-
 <div class="pro-box">
   {%if include.pic %}
    <img class="pro-pic" src="{{include.pic}}" alt=""/>	
@@ -26,9 +22,13 @@
     <p>{{include.top-p1}}</p>
 
   {% endif %}
+  
 </div>  
 {% if include.bottom %}
   <p>{{include.bottom}}</p>
 {% endif %}
 
+{% if include.website %}
+<p><a href="{{include.website}}" target="_blank"><u>Website</u></a></p>
+{% endif %}
 <hr>

@@ -71,7 +71,6 @@ and a PhD in Plant Breeding from Cornell University in 2019. His PhD work focuse
 on using genomics to improve fruit quality traits in a winter squash breeding 
 program. He has experience in field breeding, molecular breeding, bioinformatics, 
 and applied quantitative genetics."
-[Website](https://www.chrishdz.xyz)
 
 %}
 

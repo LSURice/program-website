@@ -70,7 +70,7 @@ top-p2="Chris received a BS in Genetics and Agronomy in 2014 from Iowa State Uni
 and a PhD in Plant Breeding from Cornell University in 2019. His PhD work focused 
 on using genomics to improve fruit quality traits in a winter squash breeding 
 program. He has experience in field breeding, molecular breeding, bioinformatics, 
-and applied quantitative genetics."
+and applied quantitative genetics. [Website](www.chrishdz.xyz){:target="_blank"}"
 
 %}
 
@@ -89,10 +89,10 @@ and increasing genetic gain."
 
 top-p2="
 Dr. Maulana received a BS in Crop Science from Bunda College of Agriculture in Malawi. After
-working as breeder in Malwai he obtained a MS and PhD in Plant Breeding and Genetics 
+working as breeder in Malawi, he obtained a MS and PhD in Plant Breeding and Genetics 
 from Kansas State University. At KSU, he studied cold tolerance and prediction for sorghum hybrid
-performance. Most recently, he worked as a postdoctoral researcher in the Small Grains 
-Breeding Lab at Noble Research Institute developing genomic selection models
+performance. Most recently, as a postdoctoral researcher in the Small Grains 
+Breeding Lab at the Noble Research Institute, he developed genomic selection models
 and an image-based phenotyping platform for abiotic stress."
 %}
 
@@ -159,12 +159,12 @@ pic="img/people/jennifer_profile_pic.jpg"
 %}
 
 
-
-
 ## Program Alumni
 
 |     | Thesis | Current Position     |
 | :------------- | :----------: | -----------: |
 |  **Christopher Addison** |Phenotypic and Genotypic Characterization of Aroma and Cercospora janseana Resistance in U.S. Rice | Senior Research Associate, Corteva Agriscience  |
+
+## Student Workers & Interns
 
 

@@ -125,6 +125,12 @@ top-p2="Raul received his BS in Supply Chain Management in 2009 from the Pennsyl
 %}
 
 {% include profile.html 
+name="Maria Montiel" 
+
+position="Graduate student"
+%}
+
+{% include profile.html 
 name="Valerie Dartez" 
 
 position="Research associate"
@@ -163,9 +169,7 @@ pic="img/people/jennifer_profile_pic.jpg"
 
 ## Program Alumni
 
-|     | Thesis | Current Position     |
-| :------------- | :----------: | -----------: |
-|  **Christopher Addison** |Phenotypic and Genotypic Characterization of Aroma and Cercospora janseana Resistance in U.S. Rice | Senior Research Associate, Corteva Agriscience  |
+**Christopher Addison** 2014-2020 Senior Research Associate, Corteva Agriscience
 
 ## Student Workers & Interns
 

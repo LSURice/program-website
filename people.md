@@ -59,6 +59,8 @@ name="Christopher Hernandez"
 
 position="Postdoctoral associate"
 
+email="chernandez@agcenter.lsu.edu"
+
 website="https://www.chrishdz.xyz"
 
 pic="img/people/chris_profile_pic.jpg"

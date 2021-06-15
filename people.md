@@ -142,6 +142,9 @@ name="Maria Montiel"
 position="Graduate student"
 
 email="MMontiel@agcenter.lsu.edu"
+
+pic="img/people/maria_profile_pic.png"
+
 %}
 
 {% include profile.html 

@@ -145,9 +145,9 @@ email="MMontiel@agcenter.lsu.edu"
 
 pic="img/people/maria_profile_pic.png"
 
-top-p1="María is a PhD student with Dr. Famoso. She is working on strategies for developing and improving new breeding populations using genomic prediction."
+top-p1="María is a PhD student with Dr. Famoso, working on strategies for developing and improving new breeding populations using genomic prediction."
 
-top-p2="María received a degree in Agricultural Engineer in 2014 from the University of Buenos Aires in Argentina. In her thesis work, she evaluated the use of different field designs and spatial analyses in sunflower yield trials. María has more than 10 years of experience in plant breeding and research, gaining experience in several different breeding systems along the way, and she has worked in the rice breeding and seed production industry since 2015."
+top-p2="María received a degree in Agricultural Engineer in 2014 from the University of Buenos Aires, Argentina. In her thesis work, she evaluated the use of different field designs and spatial analyses in sunflower yield trials. María has more than 10 years of experience in plant breeding and research, gaining experience in several different breeding systems along the way. She has worked in the rice breeding and seed production industry since 2015."
 %}
 
 {% include profile.html 

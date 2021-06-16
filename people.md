@@ -91,7 +91,7 @@ email="FMaulana@agcenter.lsu.edu"
 
 pic="img/people/frank_profile_pic.jpg"
 
-top-p1="Dr. Maulana is a postdoctoral associate with Dr. Famoso. His research
+top-p1="Dr. Maulana is a postdoctoral associate. His research
 involves developing, validating, and optimizing genomic prediction methodologies for
 immediate application in the breeding program.
 The primary goal of his research is to reduce costs, while improving breeding efficiency
@@ -109,8 +109,8 @@ and an image-based phenotyping platform for abiotic stress."
 {% include profile.html 
 name="Tommaso Cerioli" 
 
-top-p1="Tommaso is a PhD student with Dr. Famoso. His projects focus on the implementation 
-of Genomic Selection and Marker Assisted Selection into the breeding program."
+top-p1="Tommaso is a PhD student with Dr. Famoso. His projects focus on implementating
+Genomic and Marker Assisted Selection in the breeding program."
 
 top-p2="Tommaso obtained a BS in Agricultural Science and Technology at University of Milan in 2015 
 and a Master in Crop Production and Protection at University of Milan in 2017."
@@ -132,7 +132,7 @@ email="RGuerra@agcenter.lsu.edu"
 
 pic="img/people/raul_profile_pic.png"
 
-top-p1="Raul is a PhD student with Dr. Famoso based in Baton Rouge, Louisiana. His work inlcudes characterizing of US and Latin American germplasm for eating and cooking quality traits."
+top-p1="Raul is a PhD student with Dr. Famoso. He is working to characterize US and Latin American germplasm for eating and cooking quality traits."
 top-p2="Raul received his BS in Supply Chain Management in 2009 from the Pennsylvania State University and a Master's degree in Plant Breeding in 2013 from the University of Wisconsin. His thesis focused on Participatory varietal selection for virus resistance and shelf life longevity with various organizations across Central America. "
 %}
 
@@ -145,7 +145,7 @@ email="MMontiel@agcenter.lsu.edu"
 
 pic="img/people/maria_profile_pic.png"
 
-top-p1="María is a PhD student with Dr. Famoso. Her research is focused on strategies for developing and improving new breeding populations using genomic prediction."
+top-p1="María is a PhD student with Dr. Famoso. She is working on strategies for developing and improving new breeding populations using genomic prediction."
 
 top-p2="María received a degree in Agricultural Engineer in 2014 from the University of Buenos Aires in Argentina. In her thesis work, she evaluated the use of different field designs and spatial analyses in sunflower yield trials. María has more than 10 years of experience in plant breeding and research, gaining experience in several different breeding systems along the way, and she has worked in the rice breeding and seed production industry since 2015."
 %}

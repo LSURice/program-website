@@ -5,6 +5,10 @@ title: Variety Development
 ---
 
 ## The Field Program
+
+
+<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The breeding project develops conventional and 
 herbicide-resistant long-grain, medium-grain and specialty rice varieties such as 
 aromatic rices and new lines tailored to the [Latin American market](https://www.lsuagcenter.com/articles/page1606255285126){:target="_blank"}. 
@@ -61,8 +65,6 @@ The use of whole-genome markers for genomic selection (GS) is also an active
 area of research for us. These efforts increase the efficiency and effective 
 size of our program, but at the end of the day there is no subsitute for a good, 
 well-managed field trial. Our field program is as important as ever!
-
-<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our Marker Lab
 

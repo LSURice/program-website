@@ -6,15 +6,13 @@ title: Variety Development
 
 ## The Field Program
 
-
-<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The breeding project develops conventional and 
 herbicide-resistant long-grain, medium-grain and specialty rice varieties such as 
 aromatic rices and new lines tailored to the [Latin American market](https://www.lsuagcenter.com/articles/page1606255285126){:target="_blank"}. 
 Development of herbicide resistant lines includes Clearfield varieties and new
 [Provisia lines](https://www.ricefarming.com/departments/feature/new-and-improved-2/){:target="_blank"}.
 
+<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscr
 
 In one year, we evaluate approximately 60,000-70,000 experimental or 
 progeny rows, 300 F1 transplants and 250 space-planted F2 populations. About 

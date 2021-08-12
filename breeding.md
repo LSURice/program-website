@@ -62,6 +62,8 @@ area of research for us. These efforts increase the efficiency and effective
 size of our program, but at the end of the day there is no subsitute for a good, 
 well-managed field trial. Our field program is as important as ever!
 
+<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Our Marker Lab
 
 In 2016, with support from the Louisiana Rice Research Board,

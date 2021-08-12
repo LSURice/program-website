@@ -12,8 +12,6 @@ aromatic rices and new lines tailored to the [Latin American market](https://www
 Development of herbicide resistant lines includes Clearfield varieties and new
 [Provisia lines](https://www.ricefarming.com/departments/feature/new-and-improved-2/){:target="_blank"}.
 
-<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 In one year, we evaluate approximately 60,000-70,000 experimental or 
 progeny rows, 300 F1 transplants and 250 space-planted F2 populations. About 
@@ -64,6 +62,10 @@ The use of whole-genome markers for genomic selection (GS) is also an active
 area of research for us. These efforts increase the efficiency and effective 
 size of our program, but at the end of the day there is no subsitute for a good, 
 well-managed field trial. Our field program is as important as ever!
+
+
+<iframe width="600" height="315" src="https://www.youtube.com/embed/ib6WrFeVmDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Our Marker Lab
 

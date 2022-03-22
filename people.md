@@ -104,22 +104,6 @@ Breeding Lab at the Noble Research Institute, he developed genomic selection mod
 and an image-based phenotyping platform for abiotic stress."
 %}
 
-{% include profile.html 
-name="Tommaso Cerioli" 
-
-top-p1="Tommaso is a PhD student with Dr. Famoso. His projects focus on implementating
-Genomic and Marker Assisted Selection in the breeding program."
-
-top-p2="Tommaso obtained a BS in Agricultural Science and Technology at University of Milan in 2015 
-and a Master in Crop Production and Protection at University of Milan in 2017."
-
-position="Graduate student"
-
-email="TCerioli@agcenter.lsu.edu"
-
-pic="img/people/tommaso_profile_pic.jpg"
-
-%}
 
 {% include profile.html 
 name="Raul Guerra" 
@@ -190,6 +174,7 @@ pic="img/people/jennifer_profile_pic.jpg"
 ## Program Alumni
 
 **Christopher Addison**, 2016-2020, PhD, Senior Research Associate at Corteva Agriscience
+**Tommaso Cerioli**, 2018-2022, PhD, Corn Breeder at Corteva Agriscience
 
 ## Student Workers & Interns
 

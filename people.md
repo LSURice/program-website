@@ -80,29 +80,6 @@ and applied quantitative genetics."
 
 %}
 
-{% include profile.html 
-name="Frank Maulana" 
-
-position="Postdoctoral associate"
-
-email="FMaulana@agcenter.lsu.edu"
-
-pic="img/people/frank_profile_pic.jpg"
-
-top-p1="Dr. Maulana is a postdoctoral associate. His research
-involves developing, validating, and optimizing genomic prediction methodologies for
-immediate application in the breeding program.
-The primary goal of his research is to reduce costs, while improving breeding efficiency
-and increasing genetic gain."
-
-top-p2="
-Dr. Maulana received a BS in Crop Science from Bunda College of Agriculture in Malawi. After
-working as breeder in Malawi, he obtained a MS and PhD in Plant Breeding and Genetics 
-from Kansas State University. At KSU, he studied cold tolerance and prediction for sorghum hybrid
-performance. Most recently, as a postdoctoral researcher in the Small Grains 
-Breeding Lab at the Noble Research Institute, he developed genomic selection models
-and an image-based phenotyping platform for abiotic stress."
-%}
 
 
 {% include profile.html 
@@ -175,7 +152,6 @@ pic="img/people/jennifer_profile_pic.jpg"
 
 **Christopher Addison**, 2016-2020, PhD, Senior Research Associate at Corteva Agriscience
 **Tommaso Cerioli**, 2018-2022, PhD, Corn Breeder at Corteva Agriscience
-
-## Student Workers & Interns
+**Frank Maulana**, 2021-2022, Postdoc, Rice breeder at California Cooperative Rice Research Foundation INC. 
 
 

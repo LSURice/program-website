@@ -150,8 +150,9 @@ pic="img/people/jennifer_profile_pic.jpg"
 
 ## Program Alumni
 
-**Christopher Addison**, 2016-2020, PhD, Senior Research Associate at Corteva Agriscience
-**Tommaso Cerioli**, 2018-2022, PhD, Corn Breeder at Corteva Agriscience
-**Frank Maulana**, 2021-2022, Postdoc, Rice breeder at California Cooperative Rice Research Foundation INC. 
+|-----------------------|-----------------------------------------------------------------|
+|**Christopher Addison**| 2016-2020, PhD, Senior Research Associate at Corteva Agriscience|
+|**Tommaso Cerioli**| 2018-2022, PhD, Corn Breeder at Corteva Agriscience|
+|**Frank Maulana**| 2021-2022, Postdoc, Rice breeder at California Cooperative Rice Research Foundation INC.|
 
 
